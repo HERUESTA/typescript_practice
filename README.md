@@ -1,0 +1,2 @@
+# typescript_practice
+TypeScriptの作って学ぶチュートリアル
